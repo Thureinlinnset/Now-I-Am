@@ -1,0 +1,29 @@
+h1  {
+    color:red;
+    text-align: auto;
+}
+input    {
+    margin: 5px;
+    padding: 2px;
+    align: center;
+    border-radius: 10px;
+    width: auto;   
+}
+input  {
+    width: 180px;  
+}
+a   {
+    color: crimson
+}
+body    {
+    height: 100%;
+    background-image: url("images/r7.jpg");
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    
+ 
+}
